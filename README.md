@@ -3,7 +3,7 @@
 
 ## Vamos se divertir um pouquinho. 😃 
 
-### [Memory Game](https://react-js-person-finances.netlify.app/) 🔗
+
 
 ![](./src/assets/images/memory-game.jpg)
 
